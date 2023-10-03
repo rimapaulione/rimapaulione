@@ -1,7 +1,6 @@
 ### Hi, I'm Rima 👋 
 <br/>
-<img src="https://images.unsplash.com/photo-1587620962725-abab7fe55159?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1931&q=80"  title="githubBanner" alt="githubBanner" width="300" height="100"/>
-<br/>
+
 <p>
   I am currently on an exciting self-taught journey in the world of coding. With a deep passion for learning and a strong desire to expand my skillset, I have immersed myself in the realms of JavaScript and React. As I navigate through the intricacies of these languages, I find immense joy in every new concept I grasp and every program I create.
 </p>
