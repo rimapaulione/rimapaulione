@@ -7,7 +7,7 @@
   I am currently on an exciting self-taught journey in the world of coding. With a deep passion for learning and a strong desire to expand my skillset, I have immersed myself in the realms of JavaScript and React. As I navigate through the intricacies of these languages, I find immense joy in every new concept I grasp and every program I create.
 </p>
 
-## Languages
+## Languages and skills
 ---
 
 <div>
