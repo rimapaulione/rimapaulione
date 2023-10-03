@@ -19,6 +19,9 @@
 </div>
 
 ---
+<span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rimapaulione&layout=compact&show_icons=true&theme=graywhite&hide_border=true&icon_color=ff00ff&text_color=333"  height="135em"/></span>
+<img src="https://github-readme-stats.vercel.app/api?username=rimapaulione&show_icons=true&theme=graywhite&hide_border=true&title_color=333&icon_color=FB4570&text_color=333" height="135em"/>
+---
 
 
 <!--
