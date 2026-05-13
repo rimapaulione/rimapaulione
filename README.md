@@ -2,7 +2,7 @@
 <br/>
 
 <p>
-  I am currently on an exciting self-taught journey in the world of coding. With a deep passion for learning and a strong desire to expand my skillset, I have immersed myself in the realms of JavaScript, React, Next for frontend and Java, Spring Boot - for backend. As I navigate through the intricacies of these languages, I find immense joy in every new concept I grasp and every program I create.
+I am currently on a self-taught journey in the world of coding. With a deep passion for learning and a strong desire to expand my skillset, I have immersed myself in JavaScript, React, Next.js for frontend and Java, Spring Boot for backend. My latest project, Family Food Shopping Planner (https://forkplan.app), is a full-stack collaborative meal planner where families build a shared recipe library, plan two weeks of meals, and auto-generate shopping lists. It's built with Spring Boot 3.4 / Java 21 / PostgreSQL on the backend, React 19 / TypeScript / Tailwind on the frontend, integrates OpenAI for AI-assisted recipe creation, and is deployed on AWS EC2 via Docker Compose.  
 </p>
 
 ## Languages and skills
@@ -26,7 +26,6 @@
 - 🔭 I’m currently working on https://forkplan.app/login
 ---
 
----
 <span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rimapaulione&layout=compact&show_icons=true&theme=graywhite&hide_border=true&icon_color=ff00ff&text_color=333"  height="135em"/></span>
 <img src="https://github-readme-stats.vercel.app/api?username=rimapaulione&show_icons=true&theme=graywhite&hide_border=true&title_color=333&icon_color=FB4570&text_color=333" height="135em"/>
 ---
