@@ -2,7 +2,7 @@
 <br/>
 
 <p>
-  I am currently on an exciting self-taught journey in the world of coding. With a deep passion for learning and a strong desire to expand my skillset, I have immersed myself in the realms of JavaScript and React. As I navigate through the intricacies of these languages, I find immense joy in every new concept I grasp and every program I create.
+  I am currently on an exciting self-taught journey in the world of coding. With a deep passion for learning and a strong desire to expand my skillset, I have immersed myself in the realms of JavaScript, React, Next for frontend and Java, Spring Boot - for backend. As I navigate through the intricacies of these languages, I find immense joy in every new concept I grasp and every program I create.
 </p>
 
 ## Languages and skills
@@ -16,6 +16,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" **alt="React" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" **alt="TypeScript" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" title="Nextjs" **alt="Nextjs" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" **alt="Java" width="40" height="40"/>
 
 </div>
 
